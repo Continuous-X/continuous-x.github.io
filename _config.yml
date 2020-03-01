@@ -1,3 +1,6 @@
+name: Continuous-X
+markdown: kramdown
+
 theme: jekyll-theme-merlot
 collections:
   posts:
