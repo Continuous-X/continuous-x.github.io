@@ -1,1 +1,10 @@
 theme: jekyll-theme-merlot
+collections:
+  posts:
+    output          : true
+
+# Filtering Content
+show_drafts         : null
+limit_posts         : 0
+future              : false
+unpublished         : false
